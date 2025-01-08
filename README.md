@@ -29,7 +29,7 @@ Sinta-se à vontade para explorar, modificar e enviar pull requests. Estou sempr
 Se você tiver alguma dúvida ou quiser discutir sobre o curso, sinta-se à vontade para entrar em contato:
 
 - Email: cmsouzaac@outlook.com
-- LinkedIn: [Seu LinkedIn](https://github.com/cmsouzac)
+- LinkedIn: [https://github.com/cmsouzac] (https://github.com/cmsouzac)
 
 ---
 
