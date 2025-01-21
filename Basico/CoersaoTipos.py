@@ -8,8 +8,11 @@
 print(1 + 1)
 print('a' + 'b')
 
-# Exemplode coerçao de tipo
+# Exemplo de coerçao de tipo
 #print('1' + 1); # erro de converção
 print(int('1'), type(int('1')))
+print(float('1')+ 1)
 print(float('1.2') + 1) 
 print(str(1) + '1')
+print(bool(' '))
+print(str(11) + 'b')
