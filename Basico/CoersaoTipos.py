@@ -1,7 +1,7 @@
 #   1. Conversao de tipos, coerção
 #   2. Types convertion, typecasting, coercion
 #      é o ato de converter um tipo em outro   
-#   3. str, int, float, bool
+#   3. str, int, float, bools
 # #
 
 # Exemplo de polimorfismo (dependendo dos operandos, o comportamento do operador +)
