@@ -13,29 +13,24 @@ def menu():
 
 # Caminho absoluto da pasta atual onde está o Menu.py
 basico_dir = os.path.dirname(os.path.abspath(__file__))
+os.chdir(basico_dir)  # Isso garante que ele vai procurar os arquivos no mesmo diretório do script
 
 while True:
     menu()
     opcao = input("Escolha uma opção: ")
 
     if opcao == '1':
-        caminho = os.path.join(basico_dir, "Comentarios.py")
-        subprocess.run(f'python "{caminho}"', shell=True)
+        subprocess.run(["python", "Comentarios.py"])
     elif opcao == '2':
-        caminho = os.path.join(basico_dir, "Concatenacao.py")
-        subprocess.run(["python", caminho])
+        subprocess.run(["python", "Concatenacao.py"])
     elif opcao == '3':
-        caminho = os.path.join(basico_dir, "Ex1.py")
-        subprocess.run(["python", caminho])
+        subprocess.run(["python", "Ex1.py"])
     elif opcao == '4':
-        caminho = os.path.join(basico_dir, "Fundamentos.py")
-        subprocess.run(["python", caminho])
+        subprocess.run(["python", "Fundamentos.py"])
     elif opcao == '5':
-        caminho = os.path.join(basico_dir, "CoersaoTipos.py")
-        subprocess.run(["python", caminho])
+        subprocess.run(["python", "CoersaoTipos.py"])
     elif opcao == '6':
-        caminho = os.path.join(basico_dir, "TiposDeDados.py")
-        subprocess.run(["python", caminho])
+        subprocess.run(["python", "TiposDeDados.py"])
     elif opcao == '0':
         print("Saindo... Até mais!")
         break
