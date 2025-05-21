@@ -1,4 +1,4 @@
-# 🐍 Nome do Seu Curso de Python 🐍
+# 🐍 Curso em Python (Meus estudos praticos) 🐍
 
 Bem-vindo(a) ao **Curso em Python**! Este repositório contém todos os materiais, exemplos de código, exercícios e projetos relacionados ao curso.
 
