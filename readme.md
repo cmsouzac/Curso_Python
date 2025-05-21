@@ -1,13 +1,13 @@
 # 🐍 Nome do Seu Curso de Python 🐍
 
-Bem-vindo(a) ao **Nome do Seu Curso de Python**! Este repositório contém todos os materiais, exemplos de código, exercícios e projetos relacionados ao curso.
+Bem-vindo(a) ao **Curso em Python**! Este repositório contém todos os materiais, exemplos de código, exercícios e projetos relacionados ao curso.
 
 ---
 
 ## 🎯 Sobre o Curso
 
-Uma breve descrição do seu curso. O que os alunos aprenderão? Qual é o objetivo principal?
-Exemplo: *Este curso foi projetado para levar você de um iniciante completo a um programador Python proficiente, capaz de resolver problemas do mundo real e construir aplicações funcionais.*
+Este é um modulo do cursos de python que estou fazendo para melhorias e conhecimento na linguagem para melhor entendimento e para 
+minha carreira como Analista de dados.
 
 ---
 
@@ -19,7 +19,7 @@ Exemplo: *Este curso foi projetado para levar você de um iniciante completo a u
 * Funções e modularidade
 * Programação Orientada a Objetos (POO) em Python
 * Manipulação de arquivos e exceções
-* [Adicionar outros tópicos específicos do seu curso, como: bibliotecas populares (NumPy, Pandas, Flask, Django), APIs, web scraping, etc.]
+* [Aqui vamos aprender como trabalhar com essas bibliotecas populares; (NumPy, Pandas, Flask, Django), APIs, web scraping, etc.]
 * Desenvolvimento de projetos práticos
 
 ---
