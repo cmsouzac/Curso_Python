@@ -40,3 +40,12 @@ print(f"Usuários Ativos: {usuarios_ativos}"),
 print(f"Tem Permissão: {tem_permissao}"),
 print(f"Maior de Idade: {maior_de_idade}")
 
+'''# Listas'''
+lista_numeros = [1, 2, 3, 4, 5]
+lista_frutas = ["maçã", "banana", "laranja"]
+lista_mista = [1, "texto", 3.14, True]
+print(f"Lista de Números: {lista_numeros}"),
+print(f"Lista de Frutas: {lista_frutas}"),
+print(f"Lista Mista: {lista_mista}")
+
+
